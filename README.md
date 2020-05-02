@@ -19,8 +19,6 @@ A curated list of awesome data visualization resources, tools and communities.
     - [Design](#design)
     - [Tech](#tech)
 - [Social Media](#social-media)
-    - [Twitter](#twitter)
-    - [Pinterest](#pinterest)
 - [Tools](#tools)
     - [Charts](#charts)
     - [Color Palettes](#color)
