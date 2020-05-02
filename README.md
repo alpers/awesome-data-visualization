@@ -57,6 +57,7 @@ A curated list of awesome data visualization resources, tools and communities.
 ### Podcasts
 - [Data Stories](https://datastori.es/)
 ### Labs
+- [Duke University DataVis](https://guides.library.duke.edu/datavis)
 - [Stanford Visualization Group](http://vis.stanford.edu/)
 - [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 
