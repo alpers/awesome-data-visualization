@@ -1,5 +1,6 @@
 # Awesome Data Visualization
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome data visualization resources, tools and communities.
 
 
