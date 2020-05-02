@@ -13,8 +13,8 @@ A curated list of awesome data visualization resources, tools and communities.
     - [Notebooks & Blocks](#notebooks-blocks)
     - [Podcasts](#podcasts)
     - [Labs](#labs)
-- [Data Visualisation Agencies-Companies-Studios](#data-visualisation-agencies-companies-studios)
-- [Data Visualisation People](#data-visualisation-people)
+- [Data Visualization Agencies-Companies-Studios](#data-visualization-agencies-companies-studios)
+- [Data Visualization People](#data-visualization-people)
     - [Academic](#academic)
     - [Design](#design)
     - [Tech](#tech)
@@ -61,7 +61,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 
 
-## Data Visualisation Agencies-Companies-Studios
+## Data Visualization Agencies-Companies-Studios
 - [Accurat](https://www.accurat.it/)
 - [AnimatedData](https://www.animateddata.com)
 - [Applied Works](http://appliedworks.co.uk/)
@@ -110,7 +110,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Yaay](http://yaay.ch)
 
 
-## Data Visualisation People
+## Data Visualization People
 ### Academic
 - [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer)
 - [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman)
