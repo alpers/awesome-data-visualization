@@ -140,7 +140,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Mahir Yavuz](https://mahiryavuz.com)
 - [Martin Wattenberg](http://www.bewitched.com/)
 - [Nadieh Bremer](https://www.visualcinnamon.com/)
-- [Nicholas Felton](http://feltron.com/)
+- [Nicholas Feltron](http://feltron.com/)
 - [Nicolas Kayser-Bril](https://blog.nkb.fr)
 - [Nigel Hawtin](http://nigelhawtin.com)
 - [Robert Crocker](https://www.vizsimply.com)
@@ -167,8 +167,8 @@ A curated list of awesome data visualization resources, tools and communities.
 
 
 ## Social Media
-- [Pinterest](https://pinterest.com/gezescom/following/)
-- [Twitter](https://twitter.com/gezescom/lists/data)
+- [Pinterest](https://pinterest.com/gezescom/following/) - Gezes / Followings
+- [Twitter](https://twitter.com/gezescom/lists/data) - Gezes / Data List
 
 
 ## Tools
