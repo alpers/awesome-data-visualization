@@ -86,8 +86,8 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Interative Things](https://www.interactivethings.com/)
 - [Kiln Digital](https://www.kiln.digital)
 - [Lumodis](https://www.lumodis.io)
-- [Periscopic](https://periscopic.com)
 - [Perceptual Edge](http://www.perceptualedge.com/)
+- [Periscopic](https://periscopic.com)
 - [Pitch Interactive](https://pitchinteractive.com)
 - [Pixel and Plans](https://pixelsandplans.com/)
 - [Rogue Penguin](https://www.roguepenguin.co.nz)
@@ -102,17 +102,17 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Tulp Interactive](http://tulpinteractive.com/)
 - [Two-N](http://www.two-n.com/)
 - [Vida](https://vida.io/)
-- [VizSpoke](https://www.vizspoke.com)
 - [Visual Voice](https://myvisualvoice.biz)
-- [Visually](https://visual.ly/)
 - [Visualize Value](https://www.visualizevalue.com/)
+- [Visually](https://visual.ly/)
+- [VizSpoke](https://www.vizspoke.com)
 - [Yaay](http://yaay.ch)
 
 
 ## Data Visualization People
 ### Academic
-- [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer)
 - [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman)
+- [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer)
 - [Tamara Munzner](https://en.wikipedia.org/wiki/Tamara_Munzner)
 ### Design
 - [13pt](http://13pt.com/)
@@ -124,10 +124,10 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Anna Powell-Smith](https://anna.ps)
 - [Davit Bumbeishvili](https://davidb.dev)
 - [Deniz Cem Önduygu](https://www.denizcemonduygu.com)
+- [Emma Cosh](https://www.gracefulrobot.com)
 - [Fatih Erikli](https://fatiherikli.github.io/)
 - [Ger Inberg](https://gerinberg.com)
 - [Giorgia Lupi](http://giorgialupi.com/)
-- [Emma Cosh](https://www.gracefulrobot.com)
 - [Inbal Rief](https://www.inbal-rief.com)
 - [Julia Krolik](https://www.juliakrolik.com/)
 - [Katie Peek](http://katiepeek.com)
@@ -163,6 +163,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Micheal Freeman](http://mfviz.com/)
 - [Mike Lee](https://www.mikelee.co)
 - [Peter Beshai](http://do.peterbeshai.com/academic/index.html)
+- [Susie Lu](https://www.susielu.com/)
 
 
 ## Social Media
