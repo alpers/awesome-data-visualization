@@ -33,6 +33,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
 - [Junk Charts](https://junkcharts.typepad.com/)
+- [Nightingale](https://medium.com/nightingale)
 - [Pinboard:DataViz](https://pinboard.in/t:dataviz/)
 - [Tinyletter:Data is Plural](https://tinyletter.com/data-is-plural/archive)
 - [Visualising Data](https://www.visualisingdata.com/)
