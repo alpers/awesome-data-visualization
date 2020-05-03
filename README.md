@@ -28,7 +28,7 @@ A curated list of awesome data visualization resources, tools and communities.
 ## Data Visualization Resources
 ### Blogs-Feeds
 - [Data Remixed](https://dataremixed.com)
-- [Flonwing Data](https://flowingdata.com/)
+- [Flowing Data](https://flowingdata.com/)
 - [HN:Data Visualization](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=data%20visualization&sort=byDate&type=story)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
