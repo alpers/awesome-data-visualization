@@ -164,6 +164,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Lars Verspohl](https://www.datamake.io/)
 - [Luz K. Molina](https://databayou.com)
 - [Martin Telefont](https://medium.com/@martintelefont)
+- [Matthew Brehmer](https://mattbrehmer.ca/)
 - [Micheal Freeman](http://mfviz.com/)
 - [Mike Lee](https://www.mikelee.co)
 - [Peter Beshai](http://do.peterbeshai.com/academic/index.html)
