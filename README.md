@@ -68,6 +68,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [AnimatedData](https://www.animateddata.com)
 - [Applied Works](http://appliedworks.co.uk/)
 - [Blast Analytics](https://www.blastanalytics.com)
+- [BoostLabs](https://boostlabs.com)
 - [Calibro](https://calib.ro/)
 - [ChezVoila](https://chezvoila.com)
 - [Clever Franke](https://www.cleverfranke.com)
