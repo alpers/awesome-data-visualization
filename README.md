@@ -96,6 +96,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Periscopic](https://periscopic.com)
 - [Pitch Interactive](https://pitchinteractive.com)
 - [Pixel and Plans](https://pixelsandplans.com/)
+- [Pudding](https://pudding.cool/)
 - [Rogue Penguin](https://www.roguepenguin.co.nz)
 - [Schema Design](https://www.schemadesign.com)
 - [Small Multiples](https://smallmultiples.com.au/)
