@@ -91,6 +91,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Interative Things](https://www.interactivethings.com/)
 - [Kiln Digital](https://www.kiln.digital)
 - [Lumodis](https://www.lumodis.io)
+- [Noteable](http://noteable.io/)
 - [Perceptual Edge](http://www.perceptualedge.com/)
 - [Periscopic](https://periscopic.com)
 - [Pitch Interactive](https://pitchinteractive.com)
