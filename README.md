@@ -98,6 +98,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Pixel and Plans](https://pixelsandplans.com/)
 - [Pudding](https://pudding.cool/)
 - [Rogue Penguin](https://www.roguepenguin.co.nz)
+- [ScatterPie](https://www.scatterpie.io/)
 - [Schema Design](https://www.schemadesign.com)
 - [Small Multiples](https://smallmultiples.com.au/)
 - [Storytelling with Data](http://www.storytellingwithdata.com)
