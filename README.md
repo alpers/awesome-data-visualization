@@ -132,6 +132,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Anna Powell-Smith](https://anna.ps)
 - [Davit Bumbeishvili](https://davidb.dev)
 - [Deniz Cem Önduygu](https://www.denizcemonduygu.com)
+- [Edward Tufte](https://www.edwardtufte.com)
 - [Emma Cosh](https://www.gracefulrobot.com)
 - [Fatih Erikli](https://fatiherikli.github.io/)
 - [Ger Inberg](https://gerinberg.com)
