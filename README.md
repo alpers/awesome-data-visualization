@@ -159,6 +159,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Stefanie Posavec](http://www.stefanieposavec.com)
 - [Tiziana Alocci](https://www.tizianaalocci.com)
 - [Tony Chu](http://tonyhschu.ca/)
+- [William Chase](https://www.williamrchase.com/)
 - [Zac Ioannidis](https://portfolio.izac.us)
 ### Tech
 - [Adam Pearce](https://roadtolarissa.com/)
