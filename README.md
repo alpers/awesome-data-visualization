@@ -114,6 +114,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Visualize Value](https://www.visualizevalue.com/)
 - [Visually](https://visual.ly/)
 - [VizSpoke](https://www.vizspoke.com)
+- [Vizzuality](https://www.vizzuality.com/)
 - [Yaay](http://yaay.ch)
 
 
