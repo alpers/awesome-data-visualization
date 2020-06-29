@@ -126,7 +126,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer)
 - [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/)
 - [Lace Padilla](http://lacepadilla.com)
-- [Niklas Elmqvist](https:// sites.umiacs.umd.edu/elm/)
+- [Niklas Elmqvist](https://sites.umiacs.umd.edu/elm/)
 - [Steven Franconari](https://www.psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html)
 - [Tamara Munzner](https://en.wikipedia.org/wiki/Tamara_Munzner)
 ### Design
