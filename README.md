@@ -61,6 +61,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Duke University DataVis](https://guides.library.duke.edu/datavis)
 - [Stanford Visualization Group](http://vis.stanford.edu/)
 - [UW Interactive Data Lab](http://idl.cs.washington.edu/)
+- [Visual Thinking Lab](https://visualthinking.psych.northwestern.edu/)
 
 
 ## Data Visualization Agencies-Companies-Studios
@@ -121,7 +122,12 @@ A curated list of awesome data visualization resources, tools and communities.
 ## Data Visualization People
 ### Academic
 - [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman)
+- [Isabel Meirelles](http://isabelmeirelles.com/)
 - [Jeffrey Heer](https://en.wikipedia.org/wiki/Jeffrey_Heer)
+- [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/)
+- [Lace Padilla](http://lacepadilla.com)
+- [Niklas Elmqvist](https:// sites.umiacs.umd.edu/elm/)
+- [Steven Franconari](https://www.psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html)
 - [Tamara Munzner](https://en.wikipedia.org/wiki/Tamara_Munzner)
 ### Design
 - [13pt](http://13pt.com/)
