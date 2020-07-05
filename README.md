@@ -199,6 +199,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Adobe Color](https://color.adobe.com/)
 - [Color Palette](http://vrl.cs.brown.edu/color)
 - [Color Brewer](https://colorbrewer2.org/)
+- [Coolors](https://coolors.co/)
 - [Paletton](http://paletton.com/)
 - [SciVisColor](https://sciviscolor.org/)
 - [Sim-Daltonism](https://michelf.ca/projects/sim-daltonism)
