@@ -174,6 +174,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Christopher M. Collins](http://vialab.science.uoit.ca/portfolio/christopher-m-collins)
 - [Elijah Meeks](http://elijahmeeks.com/)
 - [Irene Ros](http://www.ireneros.com/)
+- [Kirell Benzi](https://www.kirellbenzi.com)
 - [Lars Verspohl](https://www.datamake.io/)
 - [Luz K. Molina](https://databayou.com)
 - [Martin Telefont](https://medium.com/@martintelefont)
