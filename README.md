@@ -68,6 +68,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Accurat](https://www.accurat.it/)
 - [AnimatedData](https://www.animateddata.com)
 - [Applied Works](http://appliedworks.co.uk/)
+- [Bayes](https://bayes.com/)
 - [Blast Analytics](https://www.blastanalytics.com)
 - [BoostLabs](https://boostlabs.com)
 - [Calibro](https://calib.ro/)
