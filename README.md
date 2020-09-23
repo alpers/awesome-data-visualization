@@ -60,6 +60,7 @@ A curated list of awesome data visualization resources, tools and communities.
 ### Labs
 - [Duke University DataVis](https://guides.library.duke.edu/datavis)
 - [Stanford Visualization Group](http://vis.stanford.edu/)
+- [UBS InfoVis Group](http://www.cs.ubc.ca/group/infovis/)
 - [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 - [Visual Thinking Lab](https://visualthinking.psych.northwestern.edu/)
 
@@ -155,6 +156,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [Maarten Lambrechts](http://www.maartenlambrechts.com)
 - [Mahir Yavuz](https://mahiryavuz.com)
 - [Martin Wattenberg](http://www.bewitched.com/)
+- [Michael Oppermann](https://michaeloppermann.com/)
 - [Nadieh Bremer](https://www.visualcinnamon.com/)
 - [Nicholas Feltron](http://feltron.com/)
 - [Nicolas Kayser-Bril](https://blog.nkb.fr)
