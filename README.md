@@ -104,6 +104,7 @@ A curated list of awesome data visualization resources, tools and communities.
 - [ScatterPie](https://www.scatterpie.io/)
 - [Schema Design](https://www.schemadesign.com)
 - [Small Multiples](https://smallmultiples.com.au/)
+- [Stamen](https://stamen.com)
 - [Storytelling with Data](http://www.storytellingwithdata.com)
 - [Studio Terp](http://www.studioterp.nl)
 - [Tekja](http://tekja.com)
